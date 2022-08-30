@@ -9,9 +9,6 @@ nmap
 ```
 ## Functionality
 ```
-Can be executed without specifing the port range and gui; by default is 1-65535
-By adding the --gui while running the program will open the visual interface(see snapshot above)
-
 $ python3 phs.py -h
 usage: classes_phs.py [-h] [--ports P_RANGE] [--gui] host
 
