@@ -10,7 +10,7 @@ nmap
 ## Functionality
 ```
 $ python3 phs.py -h
-usage: classes_phs.py [-h] [--ports P_RANGE] [--gui] host
+usage: phs.py [-h] [--ports P_RANGE] [--gui] host
 
 Port Multithreading Scanner
 
